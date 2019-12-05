@@ -30,6 +30,7 @@
 * テキストエディタ
 * Rubyで書いたEmacs
 * 端末で動く
+* メールの読み書きもできる
 * 今このプレゼンテーションでも使っている
 
 ## 名前の由来
@@ -73,10 +74,11 @@
 
 ## 何もしてないのに壊れた
 
-![壊れた](textbringer_broken.png)
+![何もしてないのに壊れた](textbringer_broken.png)
 
 ## Feature #13083
 
+* Rubyが壊れていた
 * Regexp#match(nil) and Regexp#match?(nil) now raise TypeError
 * 現在はrevert
 
