@@ -30,6 +30,7 @@
 * テキストエディタ
 * Rubyで書いたEmacs
 * 端末で動く
+* 今このプレゼンテーションでも使っている
 
 ## 名前の由来
 
@@ -45,7 +46,8 @@
 * Stormbringer
     * 黒の剣
     * 魂を啜ってエルリックにその力を与える
-* Textbringerがbringするのはtextなので安全
+    * 世界を滅ぼすほどの力をもつ
+* Textbringerがもたらすのは嵐ではなくテキストなので安全
 
 ## 法と混沌、そして天秤
 
@@ -72,5 +74,10 @@
 ## 何もしてないのに壊れた
 
 ![壊れた](textbringer_broken.png)
+
+## Feature #13083
+
+* Regexp#match(nil) and Regexp#match?(nil) now raise TypeError
+* 現在はrevert
 
 ## END
