@@ -157,4 +157,6 @@
 
 ## デモ
 
+* indent_new_comment_lineコマンドを作成してM-jに割り当てる
+
 ## END
