@@ -134,7 +134,7 @@
 
 ## デモ
 
-* indent_new_comment_lineコマンドを作成してM-jに割り当てる
+* indent_new_comment_line コマンドを作成してM-jに割り当てる
 
 ## まとめ
 
