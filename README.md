@@ -17,14 +17,6 @@
 
 ![Textbringerステッカー](sticker.jpg)
 
-## アンケート
-
-主に使っているエディタは？
-
-1. Emacs系 (JED/xyzzyなども含む)
-2. vi系 (Vim/Neovimなども含む)
-3. それ以外
-
 ## Textbringer
 
 * テキストエディタ
@@ -64,6 +56,10 @@
 ![Cosmic Balance](balance.png)
 
 ## 法の力が強まりすぎでは？
+
+![エディタ戦争](editor_war.jpg)
+
+## Cosmic Balanceの危機
 
 * 今日は混沌の力の魅力について話します
 
